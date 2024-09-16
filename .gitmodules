@@ -1,0 +1,3 @@
+[submodule "simple-sqlite"]
+	path = simple-sqlite
+	url = https://git.aktia.biz/scm/port/simple-sqlite.git
